@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. This sentence contains all the letters of the alphabet.
+It's often used for testing fonts and keyboard layouts.
+The quick brown fox jumps over the lazy dog. This sentence contains all the letters of the alphabet.
